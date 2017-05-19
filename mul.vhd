@@ -10,7 +10,7 @@ entity mul is
       Result: out std_logic_vector(7 downto 0)
    );
 end entity mul;
-
+//Just to test github
 architecture Behavioral of mul is
 begin
 
